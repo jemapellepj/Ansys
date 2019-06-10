@@ -1,2 +1,3 @@
 # Ansys
-A exhibit of projects implemented in ANSYS
+A exhibit of beginner projects implemented in ANSYS
+ 
